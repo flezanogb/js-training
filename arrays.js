@@ -8,7 +8,7 @@ define(function() {
             return resp;  
     },
 
-    sum : function(arr) {    
+    sum : function(arr) {      
 
         var suma=0;
         var i=0;
